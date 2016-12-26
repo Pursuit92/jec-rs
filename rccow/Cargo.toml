@@ -1,0 +1,12 @@
+[package]
+name = "jec-rccow"
+version = "0.1.0"
+authors = ["Josh Chase <josh@jec.pw>"]
+description = "Automatic copy-on-write ref-counted wrapper"
+license = "MIT/Apache-2.0"
+keywords = ["util", "rc", "cow"]
+repository = "https://github.com/Pursuit92/jec-rs"
+documentation = "https://docs.rs/jec"
+homepage = "https://docs.rs/jec"
+
+[dependencies]
